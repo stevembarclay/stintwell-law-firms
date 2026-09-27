@@ -1,0 +1,11 @@
+<!-- stintwell favicon · the mark on its ground, inset 12%, for browser tabs on any chrome
+     construction: a 64-unit square; a quarter-circle of radius 32, centered on the top-right
+     corner, is removed. Every coordinate is on a 4-unit grid. One fill: #f2f3f5.
+     Steve, 2026-09-11: "a thing with a chunk taken out of it. We're not trying to eat the whole
+     thing, we're just trying to make things a little bit better."
+     Source of truth: this file. PNGs regenerate with scripts/export-kit.mjs. Rules:
+     docs/design/STINTWELL-LOGO-RULES.md -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="512" height="512">
+<rect width="64" height="64" fill="#0b0c0e"/>
+<svg x="8" y="8" width="48" height="48" viewBox="0 0 64 64" fill="#f2f3f5"><path d="M0 0H32A32 32 0 0 0 64 32V64H0Z"/></svg>
+</svg>

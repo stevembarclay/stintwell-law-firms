@@ -14,7 +14,7 @@ The plugin has seven skills. Each one tells Claude to call the plugin's connecto
 - **What it fetches:** the skill's instructions (tool `start`), then the steps it needs (tool `get_method`). Both tools are read-only.
 - **The instructions are Stintwell's own work.** They tell Claude to use them but not to quote, reproduce or summarize them. The server also limits how much of the method one account can fetch in an hour or a day.
 - **Sign-in:** connecting the connector opens our sign-in page. Enter your email, tick the box to accept the terms, and enter the one-time code we email you. There's no password.
-- **Cost:** free while we test it. You need Claude on a paid plan.
+- **What you need:** a Stintwell for Law Firms account (sign up with your email) and Claude on a paid plan.
 
 ## Try it
 

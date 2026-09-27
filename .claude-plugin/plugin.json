@@ -3,7 +3,24 @@
   "version": "1.4.0",
   "description": "Stintwell for Law Firms: finds the one thing holding the firm back and gets you acting on it, across cash, marketing, intake, operations, hiring and AI. Not legal advice.",
   "author": {
-    "name": "Steve Barclay"
+    "name": "Stintwell LLC",
+    "email": "help@stintwell.com",
+    "url": "https://stintwell.com"
   },
-  "privacyPolicyUrl": "https://sbos.stintwell.com/law-firm/privacy"
+  "displayName": "Stintwell for Law Firms",
+  "homepage": "https://sbos.stintwell.com/law-firm",
+  "repository": "https://github.com/stevembarclay/stintwell-law-firms",
+  "documentationUrl": "https://github.com/stevembarclay/stintwell-law-firms#readme",
+  "supportUrl": "mailto:help@stintwell.com",
+  "privacyPolicyUrl": "https://sbos.stintwell.com/law-firm/privacy",
+  "termsOfServiceUrl": "https://sbos.stintwell.com/law-firm/terms",
+  "keywords": [
+    "law firm",
+    "law practice",
+    "practice management",
+    "intake",
+    "cash flow",
+    "marketing",
+    "hiring"
+  ]
 }

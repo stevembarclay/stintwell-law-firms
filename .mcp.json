@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "law-firm-method": {
+      "type": "http",
+      "url": "https://sbos.stintwell.com/api/law-firm/mcp"
+    }
+  }
+}

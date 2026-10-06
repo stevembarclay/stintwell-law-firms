@@ -16,6 +16,10 @@ The plugin has seven skills. Each one tells Claude to call the plugin's connecto
 - **Sign-in:** connecting the connector opens our sign-in page. Enter your email, tick the box to accept the terms, and enter the one-time code we email you. There's no password.
 - **What you need:** a Stintwell for Law Firms account (sign up with your email) and Claude on a paid plan.
 
+## What Claude's install warning means
+
+When you add the plugin, Claude shows a general warning that plugins may include components that run code. You can check what this one holds: seven text skills (each a short stub), one connector address, an icon and this README. It has no scripts and nothing to run on your computer. The connector receives only a skill name and a step name, and what it receives is described above.
+
 ## Try it
 
 - "I run a 4-lawyer family law firm in Ohio, about $1.8M a year. Revenue is up but cash is always tight. Where do I start?"

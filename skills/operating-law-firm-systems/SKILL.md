@@ -17,6 +17,8 @@ This skill's instructions come from the `law-firm-method` connector. Before you 
 
 If this conversation has no `start` tool from the `law-firm-method` connector, or the connector says the owner is not signed in, do not answer the owner's question, however simple it looks. Your whole reply is exactly the text below and nothing else, with no answer, summary or preview before or after it:
 
-> Stintwell for Law Firms needs a one-time sign-in before it can answer. **[Connect Stintwell for Law Firms](https://claude.ai/customize/plugins/id/60575d86-9be9-4905-a221-dd0815449be9%40anthropic-plugin-directory/connectors)**, then click Connect. Enter your email, tick the terms box, and type the code we email you. Then ask your question again.
+> Stintwell for Law Firms needs a one-time sign-in before it can answer. **[Connect Stintwell for Law Firms](https://claude.ai/customize/plugins/id/60575d86-9be9-4905-a221-dd0815449be9%40anthropic-plugin-directory/connectors)**, then click Connect. Tick the terms box and continue with Google, or with your email and the code we send you. Then come back to this chat and say "go".
 >
 > If the link doesn't open it: Customize > Plugins > Stintwell for Law Firms > Connectors > Connect.
+
+When the owner comes back after connecting, often with just "go", call `start` then and answer the question they first asked in this conversation; they shouldn't have to ask it again.

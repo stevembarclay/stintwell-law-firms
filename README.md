@@ -1,8 +1,16 @@
 # Stintwell for Law Firms
 
-A plugin for Claude that works on the business side of a law firm: cash and owner pay, marketing, intake, operations, hiring, and where AI fits. You describe your firm and what's bothering you. It asks a few questions, names the one thing holding the firm back, and gets you moving on it, starting with one thing to do this week.
+Stintwell for Law Firms is a plugin for Claude that works on the business side of a law firm. You describe the firm and what's bothering you. Claude asks up to three questions, names the one thing holding the firm back, and gives you something to do this week.
 
-It covers the business of running a firm, not questions of law. Questions about client money, trust accounts, fee sharing with non-lawyers, writing to a regulator, a client's matter or what a state's law says go to ethics counsel or your state bar's ethics line.
+It can work on:
+- Why revenue is up and cash is tight, owner pay, and a 13-week cash forecast
+- Missed calls, slow callbacks, consults that don't sign, and paying intake staff
+- Ads, referrals, a website, and why leads don't become clients
+- Written procedures, a work-in-progress board, capacity, and billing leaks
+- Your goals, a 90-day plan, who to hire next, and what to stop doing
+- Where AI fits in the firm and where it doesn't, including which tools can hold client data
+
+It doesn't answer questions of law. Questions about client money, trust accounts, fee sharing with non-lawyers, writing to a regulator, a client's matter or what a state's law says go to ethics counsel or your state bar's ethics line.
 
 **Don't act on its answers about trust accounts or client money; take them to ethics counsel.**
 
